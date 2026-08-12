@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: "Rubik", sans-serif;
+    
+ 
+}
+.g20 {
+    width: 110px;
+    height: 60px;
+}
+marquee a {
+    text-decoration: none;
+}
+.h2a {
+    border-left: 10px solid blue;
+}
+.A {
+    height: 200px;
+    object-fit: cover;
+}
+.A:hover {
+    transform: scale(1.2);
+    transition: 2s;
+}
+.card {
+    overflow: hidden;
+}
+.AA {
+    height: 350px;
+    box-shadow: 0px 5px 10px black;
+}
+.AAa {
+    height: 450px;
+    box-shadow: 0px 5px 10px black;
+}
+.h2aa {
+    border-left: 10px solid white;
+}
+.amitx {
+    float: right;
+}
+.amity {
+    float: left;
+}
+.saurabh {
+    height: 250px;
+}
+.colour {
+    background-color: aqua;
+    
+}
+.icon {
+    background-color: red;
+    border-radius: 100%;
+}
